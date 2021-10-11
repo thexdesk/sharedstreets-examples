@@ -15,8 +15,8 @@
   },
   "dependencies": {
     "axios": "*",
-    "react": "*",
-    "react-dom": "*",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
     "sharedstreets": "*",
     "sharedstreets-pbf": "*"
   }
