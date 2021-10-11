@@ -11,7 +11,7 @@
     "typescript": "*"
   },
   "dependencies": {
-    "@turf/helpers": "6.x",
+    "@turf/helpers": "6.5.0",
     "axios": "*",
     "sharedstreets": "*",
     "sharedstreets-conflator": "*",
