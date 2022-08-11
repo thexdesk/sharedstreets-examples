@@ -5874,9 +5874,10 @@ sharedstreets-conflator@*:
     meow "*"
     sharedstreets "*"
 
-sharedstreets-pbf@*:
-  version "0.7.2"
-  resolved "https://registry.yarnpkg.com/sharedstreets-pbf/-/sharedstreets-pbf-0.7.2.tgz#e0fbff1588b7e908dc22d070c9c982399dff8737"
+sharedstreets-pbf@0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/sharedstreets-pbf/-/sharedstreets-pbf-0.8.0.tgz#907f3e1ff771edbda234907e9157fc714fb1aba3"
+  integrity sha512-GZaG6Rw1X73ylAqU4+HRhLlMGj1Qv03zHQI9bUBwxaM/Gvx5feLdFZwvrXv1+0qeH9a6GiXqJhwF9SPdwB7PDA==
   dependencies:
     protobufjs "6.x"
     sharedstreets-types "1.x"
