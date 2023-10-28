@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@turf/helpers": "6.x",
-    "axios": "*",
+    "axios": "1.6.0",
     "sharedstreets": "*",
     "sharedstreets-conflator": "*",
     "sharedstreets-pbf": "*"
