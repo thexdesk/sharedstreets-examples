@@ -14,7 +14,7 @@
     "webpack-dev-server": "*"
   },
   "dependencies": {
-    "axios": "*",
+    "axios": "1.7.8",
     "react": "*",
     "react-dom": "*",
     "sharedstreets": "*",
